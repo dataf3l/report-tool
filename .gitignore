@@ -112,4 +112,4 @@ dist
 
 env.sh
 package-lock.json
-
+db/internal_reports.sql
