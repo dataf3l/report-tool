@@ -1,0 +1,17 @@
+{
+  "name": "report_tool",
+  "version": "1.0.0",
+  "description": "Reporting Tool which would allow us to visualize what's going on on the Datbase",
+  "main": "report_tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Valdes",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "mysql": "github:mysqljs/mysql",
+    "pm2": "^4.4.1"
+  }
+}
